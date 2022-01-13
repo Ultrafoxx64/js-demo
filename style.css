@@ -1,0 +1,62 @@
+h1 {
+    font-family: 'The Nautigal', cursive;
+    text-align: center;
+    font-size: 400%;
+    font-weight: 700;
+}
+
+.buttons {
+    align-content: center;
+}
+
+p {
+    color: rgb(38, 114, 201);
+    font-family: 'The Nautigal', cursive;
+    text-align: center;
+    font-size: 200%;
+    font-weight: bolder;
+    
+}
+
+
+body {
+    color: rgb(40, 17, 77);
+    background-color: rgb(154, 198, 255);
+    align-content: center;
+}
+
+#message {
+    border: rgb(13, 80, 13) 2px;
+    border-style: groove dashed groove dashed;
+    width: 80%;
+    height: 300px;
+    margin: 10px auto;
+}
+
+#message img {
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#Cat1 {
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: inside, relative;
+}
+
+#Cat2 {
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: inside, relative;
+}
+
+li{
+    color: green;
+}
